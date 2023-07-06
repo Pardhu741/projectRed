@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectred-391718",
+  "private_key_id": "37eb4bb2ac020ac229b6595a4e630b93fd39df83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCihBS2Wnhb+3Wa\nzQJfHrovwxwHmn5ga+YECB6eWmvceVEHxuQX99txQ2BEsbyoF8RR9Yw89ILrivwz\npF5PGlYrM6nMtxKQCNkzfs6owmB1KMsG3oC08ckSLyiVuyRNkkIeyR3X+I+netDq\nCrzmnOoKcDXVaif2UClF6zyl5WX/7x0pqqexEk4nmx2dCIOJ4EVfAutrvyMNlfV7\nO6/d6Oge0uPbT70nrWpkAe03nDpqkFxtiXpp29er3aakKOg+cs0MEp5i2jqGtthU\n4kcruJvTutwJ2tONy1DuY6jgB1nA7PqrtSuPh01V09cdnma9c7JSU9KlilCls9Eg\nbKXLVZIXAgMBAAECggEAGhCS/dguu5nt98Dvo2/bLrPdN/74S+CiSH1A4+beq8Kt\nU1D73jg7csP6manj9xWwv/Bg6JnSsZJd9q5jDc7MiStFDXdDO+SfaVnqLTjXnZLI\nVTa0b9Djjc4QdUtJfEN75VIePjg4WgUhopfMSjRaeQgcKjlXZXLf273pwTW0kUJ3\nw9iBYkJbNZbV+SVEzTzFeBkTkXA/UU5Fc0VgBCwbuCT8JisOB6a32VoidM1W8lc4\nY3qN24Ued2o294wA4vSb8gdpnj1MG+JBIJK6juHllo67IyMdpKht5qIvvbiO5ZRV\n6lS2GPaSOfb5o/VdhWa76BNhZJo4gGcEh51X6m6DaQKBgQDdwVWxZSurf4s3QUqN\naoWjV1yECaL/2aZl3NswiVvWo/jKoN2rPslrWVjjhCykiIQSUD88ovgGSVxGHIX/\n4ssowZnKNkmbiGr7Vis3lA25wnNgOsuvNbdz+EdcDNHxa+PNgwaEGaHkKOezimd3\nlYihfS6HwAF4MyLzUzPXl/WO0wKBgQC7nNXrJb4GAO8ajXISN2D/MU8SyMXHcUXV\nezAF57Qc2QRr0Fksg1WmoTOf//cz4m8COXh77iCJTdXbVfO1W9ZuU/x6gX6QsToV\nYcvn7UpHJ+XNKMEKGCrK1uJ+2nWRrzGq3Y4IIpvN2QmR6CRQoc+cE8fnA/CGKODH\nO61I3DJNLQKBgEfGN9I/CK9tjMXJoDO9cpu3vv4NkHB3JeB6Z4eCLfN/BxuujZDL\nta3FMXwSX9CxTu4OgylBJj4CqJcYzFZSNadvYjOM9q4crWPENCC9DuQ9B9LxtNN0\n83fZuF8W1yzo2sa9zfIbycZrZvM5rNuLzrlWJyVRBCi/hGR1XaY+TQB5AoGAXTZZ\n7j/NPoxeP5IBF93d2kx0Xf/Ui/fSW3Od84EgMqj8EljsxTnnZyd2T8tL1cJtpuxI\n2UIBdlZup0/4CqY7Tot5yJ/n8xmqow740R1LJzlCaoESD+Lb9/V1iNMfUKd7hMoZ\nFB+ly0tG/vAYgtsyG/iT/EovyWgr7bDPsoB8mW0CgYBtIBgF4xrZ3kDCPJZ+P3KB\nmLDmS1pbLx4Dcydt9w5lW5dX6Rxc0RnsAn14mxCFQ9ju3LjpLTFJRp5IofnVH6k/\nezuzFQL3h2sjc8EGgZmbYfnXtkM8kind3iTHSeSF4TKWzcBgOrhv3y1UDv57FmHA\nIXRazPcS/QKDVtTGS4culA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "projectred@projectred-391718.iam.gserviceaccount.com",
+  "client_id": "112342576862728486106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projectred%40projectred-391718.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

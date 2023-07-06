@@ -1,0 +1,95 @@
+
+.crsl-sty{
+    height: 600px;
+}
+
+.my-carousel-container {
+    width: 100%;
+    height: 100% /* Set the desired fixed height for the carousel */
+  }
+  
+  .my-carousel-item img {
+    width: auto;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .carousel-slide {
+    border-bottom: 3px solid blue;
+  }
+
+  .container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .image2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image2 img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .imp-mar{
+    margin-top: 0px !important;
+  }
+  
+  .button {
+    width: 70%;
+    height: 50px;
+    background-color: #cf2e2e;
+    color: #ffffff;
+    font-family: 'roboto';
+    font-size: 18px;
+    border: 0px;
+    border-radius: 15px;
+    font-weight: 800;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+
+  @keyframes blink {
+    0% {
+      color: #a31107;
+    }
+    50% {
+      color: #9c8d08;
+    }
+    100% {
+      color: red;
+    }
+  }
+
+  @keyframes blinks {
+    0% {
+      color: #a31107;
+    }
+    50% {
+      color:  red;
+    }
+    100% {
+      color: #9c8d08;
+    }
+  }
+  
+  .blinking-text {
+    animation: blink 3s infinite !important;
+  }
+
+  .blinking-text2 {
+    animation: blinks 3s infinite !important;
+  }
+  
+  @media (max-width: 768px) {
+    .image {
+      flex: 0 0 calc(50% - 20px);
+    }
+  }
+  
+  

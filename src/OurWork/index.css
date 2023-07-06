@@ -1,0 +1,63 @@
+
+  .para-sty-sub{
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    font-style: normal;
+    line-height: 115.3%;
+    margin: 0px;
+}
+
+.para-sty-sub-n{
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    font-style: normal;
+    line-height: 115.3%;
+    margin: 0px;
+}
+
+.mod-div{
+    margin-top: 2%;
+    margin-left: 2%;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.mod-div-n {
+    text-align: justify;
+  }
+  
+  .para-sty-n {
+    text-indent: 0;
+    display: inline-block;
+    padding: 25px;
+    line-height: 113.5%;
+  }
+  
+  .para-sty-n::first-line {
+    text-indent: 0;
+  }
+
+  .marg-div{
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 1%;
+  }
+  
+
+  .logos-container {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align logos vertically in the center */
+    justify-content: space-between; /* Distribute logos evenly */
+  }
+  
+  .logo {
+    width: 100px; /* Set the width of each logo */
+    height: 100px; /* Set the height of each logo */
+    object-fit: contain; /* Scale the logos to fit the container without distortion */
+  }

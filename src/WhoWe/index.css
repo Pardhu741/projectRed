@@ -1,0 +1,59 @@
+.shadow-div2 {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+  }
+  
+  .row-container2 {
+    display: flex;
+  }
+  
+  .left-column2,
+  .right-column2 {
+    flex: 1;
+  }
+  
+  .left-column2 {
+    margin-right: 20px; /* Adjust the margin as per your requirements */
+  }
+  
+  .row-container2 h1,
+  .row-container2 img,
+  .row-container2 p {
+    margin: 0;
+  }
+  
+  .image45 {
+    width: 150px; 
+    height: 150px; 
+  }
+
+  .mod-div-n {
+    text-align: justify;
+  }
+  
+  .para-sty-n {
+    text-indent: 0;
+    display: inline-block;
+    
+  }
+
+  .mod-div-n {
+    text-align: justify;
+  }
+
+  .para-sty-n::first-line {
+    text-indent: 0;
+  }
+
+  .para-sty-sub-n{
+    font-family: "roboto";
+    font-size: 24px;
+    font-weight: 600;
+    color: black;
+    font-style: normal;
+    line-height: 115.3%;
+    margin: 0px;
+}
+
+  
+  

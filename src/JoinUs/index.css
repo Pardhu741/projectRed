@@ -1,0 +1,6 @@
+.flexEnd{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 34vh;
+}
